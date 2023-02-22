@@ -1,5 +1,5 @@
 import React from 'react';
-import Greeting from './component/src/Greeting';
+import Greeting from './src/Greeting';
 
 function App() {
   return (
