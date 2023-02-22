@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getRandomGreeting } from './src/greeting_slice';
+import { getRandomGreeting } from './greeting_slice';
 
 export function Greeting() {
   const greetingMessage = useSelector(state => state.greeting.message);

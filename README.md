@@ -58,8 +58,7 @@ In this app we are implementing a connection between a Ruby on Rails back-end an
 </details>
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
+.
 
 - Add a greeting of your choice
 - Serve the greetings thtough an API
@@ -78,7 +77,7 @@ In this app we are implementing a connection between a Ruby on Rails back-end an
 
 -->
 
-> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
 
@@ -155,8 +154,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] Add security
 - [ ] Build a complete API
